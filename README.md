@@ -20,8 +20,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ```
 
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: yoheshkumar R.M
-RegisterNumber: 22008459
+Developed by: Lokesh R
+RegisterNumber: 22009464
 
 ```
 ```python
